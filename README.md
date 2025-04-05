@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, my name is Ryan. I am a third year computer science major at the University of Maryland Baltimore County focusing on data science and machine learning. My interest is in Operations Research and that's what I hope to do after college, using training models to optimize performance.
+Hey, my name is Ryan. I am a third year computer science major at the University of Maryland Baltimore County focusing on data science and cybersecurity.
 
 Outside of the computer, I like to be outdoors hiking, fishing, and touching grass.
 
